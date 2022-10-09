@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FckinPianino/1.0.0": {
+        "runtime": {
+          "FckinPianino.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FckinPianino/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

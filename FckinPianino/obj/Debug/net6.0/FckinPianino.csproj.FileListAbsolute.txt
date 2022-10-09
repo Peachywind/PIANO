@@ -1,0 +1,15 @@
+C:\Users\Vladi\RiderProjects\FckinPianino\FckinPianino\bin\Debug\net6.0\FckinPianino.exe
+C:\Users\Vladi\RiderProjects\FckinPianino\FckinPianino\bin\Debug\net6.0\FckinPianino.deps.json
+C:\Users\Vladi\RiderProjects\FckinPianino\FckinPianino\bin\Debug\net6.0\FckinPianino.runtimeconfig.json
+C:\Users\Vladi\RiderProjects\FckinPianino\FckinPianino\bin\Debug\net6.0\FckinPianino.dll
+C:\Users\Vladi\RiderProjects\FckinPianino\FckinPianino\bin\Debug\net6.0\FckinPianino.pdb
+C:\Users\Vladi\RiderProjects\FckinPianino\FckinPianino\obj\Debug\net6.0\FckinPianino.csproj.AssemblyReference.cache
+C:\Users\Vladi\RiderProjects\FckinPianino\FckinPianino\obj\Debug\net6.0\FckinPianino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladi\RiderProjects\FckinPianino\FckinPianino\obj\Debug\net6.0\FckinPianino.AssemblyInfoInputs.cache
+C:\Users\Vladi\RiderProjects\FckinPianino\FckinPianino\obj\Debug\net6.0\FckinPianino.AssemblyInfo.cs
+C:\Users\Vladi\RiderProjects\FckinPianino\FckinPianino\obj\Debug\net6.0\FckinPianino.csproj.CoreCompileInputs.cache
+C:\Users\Vladi\RiderProjects\FckinPianino\FckinPianino\obj\Debug\net6.0\FckinPianino.dll
+C:\Users\Vladi\RiderProjects\FckinPianino\FckinPianino\obj\Debug\net6.0\refint\FckinPianino.dll
+C:\Users\Vladi\RiderProjects\FckinPianino\FckinPianino\obj\Debug\net6.0\FckinPianino.pdb
+C:\Users\Vladi\RiderProjects\FckinPianino\FckinPianino\obj\Debug\net6.0\FckinPianino.genruntimeconfig.cache
+C:\Users\Vladi\RiderProjects\FckinPianino\FckinPianino\obj\Debug\net6.0\ref\FckinPianino.dll
